@@ -18,6 +18,6 @@ for div in divs:
 ```
 
 ## Result
-Once I had all the names from the tv series I used them as data for the YouTube video (screenshot below).
+Once I had all the names from the tv series I used them as data for the [YouTube video](https://www.youtube.com/watch?v=h8_KjkikC6U) (screenshot below).
 
 <img src="./video_screenshot.jpg" width="400" />
