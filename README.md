@@ -21,3 +21,6 @@ for div in divs:
 Once I had all the names from the tv series I used them as data for the [YouTube video](https://www.youtube.com/watch?v=h8_KjkikC6U) (screenshot below).
 
 <img src="./video_screenshot.jpg" width="400" />
+
+## Last comments
+This is not my best web scraper. Please see [this other project](https://github.com/lmponcio/web-scraper-icecream) where I not only extracted the necessary information but also automated the process of scrapping through the pagination (therefore, I removed the need to hard-code each page).
