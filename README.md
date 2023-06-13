@@ -23,4 +23,4 @@ Once I had all the names from the tv series I used them as data for the [YouTube
 <img src="./video_screenshot.jpg" width="400" />
 
 ## Last comments
-This is not my best web scraper. Please see [this other project](https://github.com/lmponcio/web-scraper-icecream) where I not only extracted the necessary information but also automated the process of scrapping through the pagination (therefore, I removed the need to hard-code each page).
+This is not my best web scraper. In [this other project](https://github.com/lmponcio/web-scraper-icecream) I also automated the process of scrapping through the pagination (therefore, I removed the need to hard-code each page), and used openpyxl for an excel spreadsheet to be created with the information organized.
