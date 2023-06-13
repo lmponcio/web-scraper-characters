@@ -1,4 +1,4 @@
-# web-scraper-naruto
+# web-scraper-characters
 While creating the example video for [DocumentsFilter](https://github.com/lmponcio/DocumentsFilter) I realized I needed to show files with names of fictitious job applicants. Then I decided to web scrape the names of characters of a tv series and use those.
 
 ## Explained
